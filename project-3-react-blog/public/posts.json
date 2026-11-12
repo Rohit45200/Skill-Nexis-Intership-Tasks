@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "category": "React",
+    "author": "Rohit Kumar",
+    "date": "November 1, 2026",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600",
+    "description": "Learn the basics of React, components, props and how to build modern user interfaces."
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript ES6",
+    "category": "JavaScript",
+    "author": "Rohit Kumar",
+    "date": "November 3, 2026",
+    "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=600",
+    "description": "Explore modern JavaScript features including arrow functions, destructuring and promises."
+  },
+  {
+    "id": 3,
+    "title": "Learn HTML and CSS",
+    "category": "HTML & CSS",
+    "author": "Rohit Kumar",
+    "date": "November 5, 2026",
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=600",
+    "description": "Understand how HTML and CSS work together to create beautiful responsive websites."
+  },
+  {
+    "id": 4,
+    "title": "Introduction to Node.js",
+    "category": "Node.js",
+    "author": "Rohit Kumar",
+    "date": "November 7, 2026",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600",
+    "description": "Discover Node.js and learn how JavaScript can be used for backend development."
+  },
+  {
+    "id": 5,
+    "title": "Getting Started with MongoDB",
+    "category": "Database",
+    "author": "Rohit Kumar",
+    "date": "November 9, 2026",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=600",
+    "description": "Learn how MongoDB stores data and how NoSQL databases support modern applications."
+  },
+  {
+    "id": 6,
+    "title": "Introduction to Full Stack Development",
+    "category": "Web Development",
+    "author": "Rohit Kumar",
+    "date": "November 11, 2026",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600",
+    "description": "Explore frontend, backend and databases to understand the complete web development process."
+  }
+]
